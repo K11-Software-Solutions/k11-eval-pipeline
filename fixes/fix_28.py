@@ -1,0 +1,1 @@
+# fix: alerting threshold comparison was inverted\n# Applied fix after detecting issue in PR #28\n

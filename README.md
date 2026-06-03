@@ -1,3 +1,3 @@
-# k11-eval-pipeline
+# Data Pipeline
 
-Data processing pipeline for K11tech AQA evaluation
+Ingest → Validate → Transform → Deduplicate → Write
